@@ -41,7 +41,6 @@
               <span>Seluruh Data Siswa Telat</span>
               <span class="dcjq-icon"></span></a>
           </li>
-          
           @endif
 
           @if(auth()->user()->role == 'admin')
