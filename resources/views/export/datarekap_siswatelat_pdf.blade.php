@@ -22,7 +22,7 @@
                   font-family: 'Ruda', sans-serif;
             font-weight: 500;
             line-height: 1.1px;
-            color: inherit;"><b>JAGA <span style="color: #48cfad;margin-left: 60px;">GERBANG</span></b></h1>
+            color: inherit;"><b>JAGA <span style="color: #48cfad;">GERBANG</span></b></h1>
             <h3 style="margin-top: -20px;">Rekap Data Total Siswa Telat</h3>
                   <address style="margin-bottom: 20px;
             font-style: normal;">
